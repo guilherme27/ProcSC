@@ -1,0 +1,13 @@
+# do ProcessadorSingleClock.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:26:05 on Nov 07,2018
+# vlog -work work ProcessadorSingleClock.vo 
+# init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/Guilherme Pereira/OneDrive/Documentos/Engenharia de Computação/Projetos/ProcessadorSC/Projeto/ProcSC/simulation/qsim/work/_lib.qdb): unable to open database file
+# mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+# ** Fatal: (vlog-9) Problem while writing token file "C:/Users/Guilherme Pereira/OneDrive/Documentos/Engenharia de Computação/Projetos/ProcessadorSC/Projeto/ProcSC/simulation/qsim/work/_temp/vlogvhkmyd".
+# O sistema não pode encontrar o caminho especificado. (GetLastError() = 3)
+# ** Error: ProcessadorSingleClock.vo(31): Verilog Compiler exiting
+# End time: 17:26:05 on Nov 07,2018, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+# ** Error: C:/intelFPGA_lite/17.1/modelsim_ase/win32aloem/vlog failed.
+# Executing ONERROR command at macro ./ProcessadorSingleClock.do line 3
